@@ -18,7 +18,6 @@ I build end-to-end **haptics + teleoperation** systems for **telesurgery/robotic
 ### 📫 Reach me
 - Email: jxs1778@case.edu  
 - Google Scholar: https://scholar.google.com/citations?user=OaY3wicAAAAJ&hl=en  
-- GitHub: https://github.com/Jiajisu
 
 ---
 
