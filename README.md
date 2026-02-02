@@ -21,6 +21,5 @@ Google Scholar: https://scholar.google.com/citations?user=OaY3wicAAAAJ
 
 ORCID: https://orcid.org/0009-0002-4068-1042
 
-GitHub: https://github.com/Jiajisu
 ---
 
