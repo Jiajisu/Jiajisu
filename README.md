@@ -9,7 +9,7 @@ I build end-to-end **haptics + teleoperation** systems for **telesurgery/robotic
 
 ### 🧰 Tech I use
 - **Programming:** C++, Python, MATLAB, R  
-- **Robotics / Haptics:** ROS (ROS2), CHAI3D, SurRoL  
+- **Robotics / Haptics:** ROS, CHAI3D, SurRoL  
 - **Embedded / Hardware:** Arduino, serial/I2C, pneumatic control systems  
 - **CAD / Simulation:** SolidWorks, AutoCAD, ANSYS, Abaqus  
 - **Tracking:** MicronTracker (optical), Polhemus Viper (EM)
