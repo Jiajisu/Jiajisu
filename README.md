@@ -1,6 +1,5 @@
 ## Hi there 👋 I’m Jiaji Su
 
-PhD student at Case Western Reserve University (ERIE Lab).  
 I build end-to-end **haptics + teleoperation** systems for **telesurgery/robotic manipulation**, spanning hardware prototyping, real-time control, and experiment software.
 
 ### 🔭 What I’m working on
