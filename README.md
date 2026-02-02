@@ -15,8 +15,12 @@ I build end-to-end **haptics + teleoperation** systems for **telesurgery/robotic
 - **Tracking:** MicronTracker (optical), Polhemus Viper (EM)
 
 ### 📫 Reach me
-- Email: jxs1778@case.edu  
-- Google Scholar: https://scholar.google.com/citations?user=OaY3wicAAAAJ&hl=en  
+Email: jxs1778@case.edu  
 
+Google Scholar: https://scholar.google.com/citations?user=OaY3wicAAAAJ
+
+ORCID: https://orcid.org/0009-0002-4068-1042
+
+GitHub: https://github.com/Jiajisu
 ---
 
