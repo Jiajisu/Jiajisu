@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋 I’m Jiaji Su
 
+PhD student at Case Western Reserve University (ERIE Lab).  
+I build end-to-end **haptics + teleoperation** systems for **telesurgery/robotic manipulation**, spanning hardware prototyping, real-time control, and experiment software.
 
-**Jiajisu/Jiajisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 What I’m working on
+- Lightweight, **ungrounded handheld** pneumatic haptic devices (kinesthetic + cutaneous cues)
+- **Teleoperation** platforms (C++/CHAI3D/ROS) with synchronized logging and reproducible user studies
+- Multimodal sensing & closed-loop control (optical/EM tracking, embedded I/O, pneumatic actuation)
 
-Here are some ideas to get you started:
+### 🧰 Tech I use
+- **Programming:** C++, Python, MATLAB, R  
+- **Robotics / Haptics:** ROS (ROS1), CHAI3D, SurRoL  
+- **Embedded / Hardware:** Arduino, serial/I2C, pneumatic control systems  
+- **CAD / Simulation:** SolidWorks, AutoCAD, ANSYS, Abaqus  
+- **Tracking:** MicronTracker (optical), Polhemus Viper (EM)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 📫 Reach me
+- Email: jxs1778@case.edu  
+- Google Scholar: https://scholar.google.com/citations?user=OaY3wicAAAAJ&hl=en  
+- GitHub: https://github.com/Jiajisu
+
+---
 
